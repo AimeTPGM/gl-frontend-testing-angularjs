@@ -1,0 +1,13 @@
+@font-face{
+	font-family: bangna;
+	src: url(../fonts/bangna-new.ttf);
+}
+
+body{
+	font-family: bangna;
+	background: url(../img/workspacebg.jpg) no-repeat center center fixed; 
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+}
