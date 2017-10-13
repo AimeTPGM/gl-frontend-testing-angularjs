@@ -1,4 +1,14 @@
 <div class="container">
-	Content
+	<div class="content-card-wrapper">
+		<div ng-repeat="card in cards" class="content-card">
+			<div class="card">
+				<img class="card-img-top" src="../assets/img/sample.png" alt="Card image cap">
+				<div class="card-body">
+					<p class="header">{{card.header}}</p>
+					<p class="content">{{card.content}}</p>
+				</div>
+			</div>
+		</div>
+	</div>
 </div>
 
