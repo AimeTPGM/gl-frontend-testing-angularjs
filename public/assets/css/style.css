@@ -109,3 +109,43 @@ a:hover{
 .content-card .content{
 	font-size: 0.8em;
 }
+.footer-wrapper{
+	padding-top: 100px;
+	padding-bottom: 100px;
+}
+
+.footer-column-wrapper{
+	width: 100%;
+}
+.footer-column{
+	width: calc(98%/4);
+	display: -webkit-inline-box;
+	vertical-align: top;
+}
+.footer-column .content-wrapper{
+	display: block;
+	margin: 0;
+	padding: 35px;
+}
+.footer-column .content-wrapper h1{
+	font-size: 2em;
+	margin-bottom: 30px;
+
+}
+.footer-column .content-wrapper .content{
+	font-size: 0.8em;
+	line-height: 1.61;
+}
+
+.footer-column .content-wrapper .content .footer-list{
+	list-style: none;
+    margin-left: -40px; 
+}
+.footer-column .content-wrapper .content .item{
+	font-size: 2em;
+	display: -webkit-inline-box;
+	padding: 10px;
+}
+.footer-column .content-wrapper .content .item:first-child{
+	padding-left: 0px;
+}
