@@ -7,9 +7,8 @@ angular.module('app')
 			"content" : "/views/content.html",
 			"footer" : "/views/footer.html"
 		}
-	}
 
-	$scope.cards = [
+		$scope.cards = [
 			{
 				"header" : "Lorem ipsum",
 				"content" : "dolor sit amet, consectetur adipiscing elit. Nullam sed nisi nec lorem viverra laoreet."
@@ -43,4 +42,6 @@ angular.module('app')
 				"content" : "dolor sit amet, consectetur adipiscing elit. Nullam sed nisi nec lorem viverra laoreet."
 			}
 		]
+
+	}
 ])
