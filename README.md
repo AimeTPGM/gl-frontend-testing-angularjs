@@ -1,8 +1,8 @@
-# Frontend Developer Test
+# Frontend Developer Test (Angular)
 
 this project is referred to [GetLinks Frontend Testing Skill](https://github.com/GetLinks/Tech-Guide/tree/master/frontend)
 
-(React Version is ongoing)
+(React version [here](https://github.com/AimeTPGM/gl-frontend-testing-react))
 
 # How to run
 
